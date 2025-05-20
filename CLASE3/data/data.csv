@@ -1,0 +1,4 @@
+ID,Rango_edad,Sexo_biologico,Raza,IMC,Fumador,Consumo_alcohol,Salud_física,Salud_mental,Dificultad_caminar,Actividad_física,Salud_general,Horas_sueño,Problemas_salud,Investigación,Año
+01,55-59,Mujer,Blanca,16.6,Sí,No,3,30,No,Sí,Muy buena,5,"['Diabetes', 'Asma', 'Cancer_piel']",Indicadores clave de enfermedades cardíacas,2020
+02,80 ó +,Mujer,Blanca,20.34,No,No,0,0,No,Sí,Muy buena,7,['AVC'],Indicadores clave de enfermedades cardíacas,2020
+03,65-69,Masculino,Blanca,26.58,Sí,No,20,30,No,Sí,Muy buena,8,"['Diabetes', 'Asma']",Indicadores clave de enfermedades cardíacas,2020

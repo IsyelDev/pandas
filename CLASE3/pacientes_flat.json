@@ -1,0 +1,23 @@
+[
+  {
+    "Nombre":"Ana",
+    "Edad":33,
+    "Diagn\u00f3stico":"Diabetes",
+    "Investigaci\u00f3n":"Salud 2025",
+    "A\u00f1o":2025
+  },
+  {
+    "Nombre":"Luis",
+    "Edad":40,
+    "Diagn\u00f3stico":"Hipertensi\u00f3n",
+    "Investigaci\u00f3n":"Salud 2025",
+    "A\u00f1o":2025
+  },
+  {
+    "Nombre":"Mar\u00eda",
+    "Edad":29,
+    "Diagn\u00f3stico":"Asma",
+    "Investigaci\u00f3n":"Salud 2025",
+    "A\u00f1o":2025
+  }
+]
